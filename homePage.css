@@ -70,7 +70,7 @@ body {
 #line{
   background-color: black;
   width: 3px;
-  margin-left: 50px;
+  margin-left: 5%;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
